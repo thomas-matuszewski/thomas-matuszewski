@@ -1,5 +1,6 @@
 ### Hello there 👋
 
+A self-learning front-end developer who would like to start his adventure in the IT industry. At the moment my technology stack is: html, css, scss, tailwindcss, bootstrap, gulp, github, javascript. I'm learning React now and it's great! I am currently working as a team leader in a factory.
 <!--
 **thomas-matuszewski/thomas-matuszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
